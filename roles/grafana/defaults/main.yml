@@ -1,0 +1,4 @@
+---
+# General parameters
+
+grafana_admin_password: 'changeme' # The password of the default Grafana admin.
