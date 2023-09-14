@@ -1,3 +1,24 @@
+grafana over port 3000:
+
+![image](https://github.com/riddhim/ansible-install-grafana-prometheus-node_exporter/assets/46811067/d64bddd4-6051-4443-88ca-bde2b97f438e)
+
+Prometheus over port 9090:
+
+![image](https://github.com/riddhim/ansible-install-grafana-prometheus-node_exporter/assets/46811067/affff12a-9f3f-4463-8c87-c77d2e7b36c9)
+
+![image](https://github.com/riddhim/ansible-install-grafana-prometheus-node_exporter/assets/46811067/ad545829-25bf-4d90-ae9b-4b74fd37d03a)
+
+Over port 9100:
+
+![image](https://github.com/riddhim/ansible-install-grafana-prometheus-node_exporter/assets/46811067/617d8f69-236d-4fe1-a649-aaceb836e715)
+
+AlertManager over port 9093:
+
+![image](https://github.com/riddhim/ansible-install-grafana-prometheus-node_exporter/assets/46811067/3a5c7c77-4c4d-442b-9455-07056cb8347b)
+
+
+########################################################################################################
+
 ubuntu@controller:~/ansible$ ansible-playbook -i inventory playbook.yml
 
 PLAY [alertmanager] ********************************************************************************************************************************************************
