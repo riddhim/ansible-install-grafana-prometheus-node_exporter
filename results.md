@@ -16,6 +16,15 @@ AlertManager over port 9093:
 
 ![image](https://github.com/riddhim/ansible-install-grafana-prometheus-node_exporter/assets/46811067/3a5c7c77-4c4d-442b-9455-07056cb8347b)
 
+Services started on target server:
+
+![image](https://github.com/riddhim/ansible-install-grafana-prometheus-node_exporter/assets/46811067/e8e31dc0-0918-42c1-8fa2-ef2376d0d930)
+
+![image](https://github.com/riddhim/ansible-install-grafana-prometheus-node_exporter/assets/46811067/847112ca-249e-4ff8-9493-c53ea6e3acc3)
+
+![image](https://github.com/riddhim/ansible-install-grafana-prometheus-node_exporter/assets/46811067/987204ad-29fc-400b-b61f-a155f6bf051e)
+
+![image](https://github.com/riddhim/ansible-install-grafana-prometheus-node_exporter/assets/46811067/c9648625-2c5d-4492-b97b-42650d829979)
 
 ########################################################################################################
 
